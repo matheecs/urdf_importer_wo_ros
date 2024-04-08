@@ -8,8 +8,8 @@ URDF Importer is an add-on for [Blender](https://www.blender.org/). It supports 
 - Export robot to .fbx format with textures
 
 ## Prerequisite
-- [Blender 3.1.x](https://www.blender.org/download/releases/3-1/)
-- [ROS or ROS2](https://www.ros.org/)
+- [Download Blender (all versions)](https://download.blender.org/release/)
+- ~~[ROS or ROS2](https://www.ros.org/)~~
 
 ## Installation
 
